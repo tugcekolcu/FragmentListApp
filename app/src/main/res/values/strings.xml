@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentListApp</string>
+    <string-array name="ulkeler">
+        <item>"Türkiye"</item>
+        <item>"Almanya"</item>
+        <item>"Fransa"</item>
+
+    </string-array>
+</resources>
